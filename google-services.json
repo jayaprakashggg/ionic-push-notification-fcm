@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "638843750159",
+    "firebase_url": "https://probe7-bea4c.firebaseio.com",
+    "project_id": "probe7-bea4c",
+    "storage_bucket": "probe7-bea4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638843750159:android:f930a36f246c0f4a",
+        "android_client_info": {
+          "package_name": "me.jayaprakash.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id":
+            "638843750159-tsetqml13knajbp062rsv4f697bn1nl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVi0fzJHYS06-EpwgeacJ-IKJnwkRs9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

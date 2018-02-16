@@ -1,0 +1,8 @@
+{
+  "name": "ionic-push-notification-fcm",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
